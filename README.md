@@ -6,7 +6,7 @@ This is a webhook system for Discord
 
 Place the script into ServerScript Service
 
-Have Http Requests enabled to function
+Have "Allow HTTP Requests" enabled for the script to function
 
 # Info
 
