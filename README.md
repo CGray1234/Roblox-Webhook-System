@@ -13,7 +13,7 @@ Place the script into ServerScript Service
 
 Have "Allow HTTP Requests" enabled for the script to function
 
-#Q&A
+# Q&A
 
 Q: Why does the link say "hooks.hyra.io?"
 A: Discord blocks requests from ROBLOX, so the script uses another proxy.
