@@ -7,6 +7,8 @@ If you would like me to make a personalized script, please create an issue in th
 
 This is a webhook system for Discord
 
+# Please copy and paste from the .lua file because that is the most up-to-date and recent version, the release will not be updated.
+
 # Prerequisites
 
 Place the script into ServerScript Service
