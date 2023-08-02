@@ -5,6 +5,7 @@ game:GetService("Players").PlayerAdded:Connect(function(player)
     --Add whatever you want right here, if you would like me to make a script designed so that when a player chats a command or anything, please create an issue in the issues tab
     local data = {
       ["content"] = "Message here" --Unlike embeds, ["content"] is a normal-looking message
+    }
     
     local encodedData = HttpService:JSONEncode(data)
     HttpService:PostAsync(webhookURL, encodedData)
